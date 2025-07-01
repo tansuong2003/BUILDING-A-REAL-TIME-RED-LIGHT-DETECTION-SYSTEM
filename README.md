@@ -18,8 +18,10 @@ This project implements a **real-time red light violation detection system**, wh
 
 ## 🔗 Training Link
 
-👉 \[Insert your training data or model link here]
-
+model\ki_tu_bien_so.pt: https://www.kaggle.com/code/thnhlong1503/train-label-bienso
+model\xeco.pt: yolov11
+model\dengiaothong.pt: https://www.kaggle.com/code/tnsngnguyn/train-dendo
+model\bienso.pt: https://www.kaggle.com/code/thnhlong1503/train-bienso-2000
 ## 🚀 How to Run
 
 1. **Setup environment:**
