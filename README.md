@@ -1,7 +1,3 @@
-# BUILDING-A-REAL-TIME-RED-LIGHT-DETECTION-SYSTEM
-Dưới đây là một file `README.md` được viết bằng tiếng Anh, mô tả hệ thống của bạn theo nội dung bạn cung cấp:
-
----
 
 # BUILDING-A-REAL-TIME-RED-LIGHT-DETECTION-SYSTEM
 
