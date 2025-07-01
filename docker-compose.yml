@@ -1,0 +1,22 @@
+services:
+  postgres_violations:
+    image: postgres:15.3-alpine
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: mysecretpassword
+      POSTGRES_DB: traffic_violations
+    ports:
+      - "5433:5432"
+    volumes:
+      - violations_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d traffic_violations"]
+      interval: 10s
+      retries: 5
+      start_period: 30s
+      timeout: 10s
+
+volumes:
+  violations_postgres_data:
+    driver: local
