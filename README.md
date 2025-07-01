@@ -65,6 +65,11 @@ This project implements a **real-time red light violation detection system**, wh
 * Increasing detection accuracy under heavy traffic
 * Adding plate recognition for automated ticketing
 
+## 👨‍💻 Authors & Contributors
+- **Nguyễn Tấn Sương** ([tansuong2003](https://github.com/tansuong2003)) - Initial project & development
+- **Nguyễn Trương Thành Long** ([nguyentruongthanhlong](https://github.com/Thanhlong01052003)) - Co-developer, testing & documentation
+
+
 🏷️ Tags
 
 #yolov5 #yolov7 #yolov8 #object-detection #computer-vision #traffic-light #vehicle-detection
