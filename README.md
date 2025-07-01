@@ -65,3 +65,13 @@ This project implements a **real-time red light violation detection system**, wh
 * Increasing detection accuracy under heavy traffic
 * Adding plate recognition for automated ticketing
 
+🏷️ Tags
+
+#yolov5 #yolov7 #yolov8 #object-detection #computer-vision #traffic-light #vehicle-detection
+#streamlit #docker #docker-compose #postgresql #realtime #AI #deep-learning #pytorch
+#red-light-detection #smart-traffic #smart-city #opencv #python #ALPR #license-plate-recognition
+#graduation-thesis #final-project #capstone #ute #hcmute #ute-khoaluantotnghiep #ute-vietnam
+#nguyentansuong #nguyentruongthanhlong #khoa-luan-tot-nghiep #hcmute-thesis #university-project
+#cv #machine-learning #data-science #traffic-violation #traffic-surveillance #thesis
+#iot #edge-ai #urban-traffic #motorbike-detection #car-detection #truck-detection
+
